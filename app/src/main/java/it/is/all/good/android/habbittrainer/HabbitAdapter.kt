@@ -15,9 +15,12 @@ class HabbitAdapter(val habbits: List<Habbit>) : RecyclerView.Adapter<HabbitAdap
 
     override fun onBindViewHolder(viewHolder: HabbitViewHolder, index: Int) {
         val habbit = habbits[index]
-        viewHolder.card.tv_title.text = habbit.title
-        viewHolder.card.tv_description.text = habbit.description
-        viewHolder.card.iv_icon.setImageBitmap(habbit.image)
+
+        with(viewHolder) {
+            card.tv_title.text = habbit.title
+            card.tv_description.text = habbit.description
+            card.iv_icon.setImageBitmap(habbit.image)
+        }
     }
 
     override fun getItemCount(): Int = habbits.size
