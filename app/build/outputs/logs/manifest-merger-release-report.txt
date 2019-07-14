@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/018b1653a330e1ca4143ea47b42cdc20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1a62fb93cc75a546528b9fbbf30d926/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8aac52511f20503be8159d8358434a4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d7e5ff32803c78b2229ef8944e73c3f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/17edb8226d255696b43ec79ddb4e6a84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/57e14d8026b009864ca46dbf41be77f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96196d851a4d1c598eccca7971856bea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b8e793a58973127d905bf058a74f8c96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f74d2f5596dc5c19873618f4153e7c1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b4752518496997bdde13eff390b9dd9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7db62fa884c8be0a8ec4cd487967b7d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6ccca9de73ff0a113cda19bbe0a77fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b619f962b40ff82c245cb12d84a1f97f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f58298c11abba72f74f59c6d8ae05d56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0b9f6d7f78983eb42234018d7bfa3469/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02287680773bcd0fca869748c10e2a70/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c0d960082fe7935bc7720110d774836/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a4170f015a8d8ef03b0fbdf18dc10455/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b8fc9d3b504e235080e21cd42a12e555/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a18f982616efa1e0c5eff54e17afad93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cc6007939837e933481f17ae4c8a2ccc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e2152f801222b3f440b09a9defc48e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c905d6795c0735f6d82f60813d7b1a88/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/15296bd1cd8bfa8e407bd2b041126447/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6f15f32e559e43ff92e87dd6ce2d7c08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9dea0a4bf31bc72807b399947bc530ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d2383d79671021aea176213df1e406cb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:3:11-57
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1a62fb93cc75a546528b9fbbf30d926/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1a62fb93cc75a546528b9fbbf30d926/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02287680773bcd0fca869748c10e2a70/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02287680773bcd0fca869748c10e2a70/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c0d960082fe7935bc7720110d774836/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c0d960082fe7935bc7720110d774836/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02287680773bcd0fca869748c10e2a70/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:11:13-44
+activity#it.is.all.good.android.habbittrainer.MainActivity
+ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/018b1653a330e1ca4143ea47b42cdc20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/018b1653a330e1ca4143ea47b42cdc20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1a62fb93cc75a546528b9fbbf30d926/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1a62fb93cc75a546528b9fbbf30d926/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8aac52511f20503be8159d8358434a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8aac52511f20503be8159d8358434a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d7e5ff32803c78b2229ef8944e73c3f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d7e5ff32803c78b2229ef8944e73c3f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/17edb8226d255696b43ec79ddb4e6a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/17edb8226d255696b43ec79ddb4e6a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/57e14d8026b009864ca46dbf41be77f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/57e14d8026b009864ca46dbf41be77f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96196d851a4d1c598eccca7971856bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96196d851a4d1c598eccca7971856bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b8e793a58973127d905bf058a74f8c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b8e793a58973127d905bf058a74f8c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f74d2f5596dc5c19873618f4153e7c1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f74d2f5596dc5c19873618f4153e7c1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b4752518496997bdde13eff390b9dd9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b4752518496997bdde13eff390b9dd9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7db62fa884c8be0a8ec4cd487967b7d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7db62fa884c8be0a8ec4cd487967b7d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6ccca9de73ff0a113cda19bbe0a77fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6ccca9de73ff0a113cda19bbe0a77fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b619f962b40ff82c245cb12d84a1f97f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b619f962b40ff82c245cb12d84a1f97f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f58298c11abba72f74f59c6d8ae05d56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f58298c11abba72f74f59c6d8ae05d56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0b9f6d7f78983eb42234018d7bfa3469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0b9f6d7f78983eb42234018d7bfa3469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02287680773bcd0fca869748c10e2a70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02287680773bcd0fca869748c10e2a70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c0d960082fe7935bc7720110d774836/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c0d960082fe7935bc7720110d774836/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a4170f015a8d8ef03b0fbdf18dc10455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a4170f015a8d8ef03b0fbdf18dc10455/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b8fc9d3b504e235080e21cd42a12e555/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b8fc9d3b504e235080e21cd42a12e555/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a18f982616efa1e0c5eff54e17afad93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a18f982616efa1e0c5eff54e17afad93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cc6007939837e933481f17ae4c8a2ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cc6007939837e933481f17ae4c8a2ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e2152f801222b3f440b09a9defc48e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e2152f801222b3f440b09a9defc48e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c905d6795c0735f6d82f60813d7b1a88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c905d6795c0735f6d82f60813d7b1a88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/15296bd1cd8bfa8e407bd2b041126447/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/15296bd1cd8bfa8e407bd2b041126447/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6f15f32e559e43ff92e87dd6ce2d7c08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6f15f32e559e43ff92e87dd6ce2d7c08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9dea0a4bf31bc72807b399947bc530ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9dea0a4bf31bc72807b399947bc530ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d2383d79671021aea176213df1e406cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/myoungso.kang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d2383d79671021aea176213df1e406cb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/myoungso.kang/Workspace/personal-projects/KotlinAndroidHabbitTrainer/app/src/main/AndroidManifest.xml
